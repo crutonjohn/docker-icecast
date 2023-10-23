@@ -1,4 +1,4 @@
-name: Build_Test
+name: Docker Image CI
 
 concurrency:
   group: build-${{ github.ref }}
